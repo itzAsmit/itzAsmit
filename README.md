@@ -8,18 +8,15 @@
   <img src="https://img.shields.io/badge/Profile%20views-69-00FF41?style=flat" alt="itzAsmit's profile views" />
 </p>
 
-<table align="">
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="dp.png" alt="Rishi" width="170" height="170" />
-    </td>
-    <td valign="middle">
-      <h1>Asmit Biswas</h1>
-      <p>📍 Naihati, West Bengal</p>
-      <i>lowkey building cool stuff, highkey debugging it at 3 AM ☕ — turning bugs into ✨ features ✨ since day one 💀</i>
-    </td>
-  </tr>
-</table>
+<img src="dp.png" alt="Rishi" width="170" align="left" />
+
+<h3>Asmit Biswas</h3>
+
+📍 Naihati, West Bengal
+
+<i>lowkey building cool stuff, highkey debugging it at 3 AM ☕ — turning bugs into ✨ features ✨ since day one 💀</i>
+
+<br clear="left"/>
 
 ## 📌 About Me
 - 👋 I'm **Rishi** — a CSE undergraduate at **Academy of Technology** who likes building real stuff, breaking it, fixing it, and learning in the process.
