@@ -38,7 +38,6 @@
 <p align="center">
   <a href="https://github.com/itzAsmit">
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itzAsmit&bg_color=131313&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=30363D&border_radius=12&include_all_commits=true&count_private=true"/>  </a>
-  <img src="https://streak-stats.demolab.com?user=itzAsmit&background=131313&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D&border_radius=12" width="60%" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzAsmit&bg_color=131313&color=8B949E&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&radius=12" />
